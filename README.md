@@ -1,6 +1,6 @@
 # PowerBI-Employee Churn Analysis
 
-Dashboard
+**Dashboard**
 ![Screenshot 2024-07-25 170755](https://github.com/user-attachments/assets/696ace8e-5a5e-4026-9ccf-81590689c182)
 
 **DESCRIPTION** 
