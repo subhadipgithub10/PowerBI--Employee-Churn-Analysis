@@ -31,20 +31,24 @@ Highest in R&D, followed by Sales. Lowest in HR.
 R&D employees travel the most.
 
 **POSSIBLE REASONS FOR EMPLOYEE ATTRIBUTION**
-1. **Job Dissatisfaction**:
+1. **Job Dissatisfaction**
 - Younger employees might feel a lack of career growth, challenging tasks, or mentorship, leading to job dissatisfaction.
 - Older employees might leave due to lack of flexible working options, job stress, or retirement plans.
-2. **Work-Life Balance**:
+2. **Work-Life Balance**
 - High travel frequency in the Research & Development department might lead to poor work-life balance, causing employees to leave.
-3. **Career Development**:
+3. **Career Development**
 - Limited opportunities for career advancement and professional growth can cause employees to seek opportunities elsewhere.
 
 **RECOMMENDATIONS**
-1. **Job Dissatisfaction**:
-- Younger employees might feel a lack of career growth, challenging tasks, or mentorship, leading to job dissatisfaction.
-- Older employees might leave due to lack of flexible working options, job stress, or retirement plans.
-2. **Work-Life Balance**:
-- High travel frequency in the Research & Development department might lead to poor work-life balance, causing employees to leave.
-3. **Career Development**:
-- Limited opportunities for career advancement and professional growth can cause employees to seek opportunities elsewhere.
+1. **Reduce Attrition in Key Age Groups**
+- Young Employees (20-30): Offer career development and mentorship.
+- Older Employees (50+): Provide flexible work options.
+2. **Improve Conditions in High Attrition Departments**
+- Investigate reasons for high attrition in R&D and address them.
+3. **Review Compensation**
+- Ensure wages are competitive and offer additional benefits.
+4. **Enhance Work-Life Balance**
+- Implement wellness programs and flexible working options.
+5. **Reduce Travel Burden**
+- Offer better travel accommodations and remote work solutions.
 
